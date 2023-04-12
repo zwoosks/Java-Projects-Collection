@@ -2,7 +2,7 @@
 Collection of diverse Java projects. Made for fun and to build portfolio.
 
 ## Full list of projects
-- [Currency Converter](http://handlebarsjs.com/): A simple program that converts from one currency to another.
+- [Currency Converter](/CurrencyConverter): A simple program that converts from one currency to another.
 
 ## Future project ideas
 - Simple Minecraft Bukkit plugin to showcase API usage.
