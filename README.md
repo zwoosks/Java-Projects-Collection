@@ -9,4 +9,4 @@ Collection of diverse Java projects. Made for fun and to build portfolio.
 - Simple Minecraft Discord bot (JDA) to showcase API usage.
 - Web scrapper example
 - Image format converter
-- More ideas coming soon
+- More ideas coming soon!
